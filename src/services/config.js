@@ -1,0 +1,1 @@
+export var APPCODE = "a0b7fb397c204e65958accc46d31ef6e"
